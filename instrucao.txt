@@ -1,0 +1,1 @@
+precisa usar o comando npm install para instalar o node_modules, não se esqueça que o comando é apenas mpm istall
